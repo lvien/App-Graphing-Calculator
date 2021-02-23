@@ -1,7 +1,7 @@
 # App-Graphing-Calculator
-## Designer: Andrew Vien
-## Concepts: C++ Object-Oriented Programming  
-## Made with: Qt Creator editor, SFML visual plugins.
+#### Designer: Andrew Vien
+#### Concepts: C++ Object-Oriented Programming  
+#### Made with: Qt Creator editor, SFML visual plugins.
 
 C++ application that accepts a user-inputted mathematical equation and outputs a visual, animated graph.  
 Accepts linear and trigonemetric equations. Visual graph includes panning, zoom, animation, and linear/polar graph toggle.
