@@ -1,6 +1,6 @@
 # App-Graphing-Calculator
-Concepts: C++ Object-Oriented Programming
-<return>Made with: C++ in Qt Creator editor, SFML visual plugins.
+Concepts: C++ Object-Oriented Programming  
+Made with: C++ in Qt Creator editor, SFML visual plugins.
 
 C++ application that accepts a user-inputted mathematical equation and outputs a visual, animated graph.
 <return>Accepts linear and trigonemetric equations. Visual graph includes panning, zoom, animation, and linear/polar graph toggle.
